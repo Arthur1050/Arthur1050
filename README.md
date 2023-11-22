@@ -1,11 +1,13 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur1050/)
 ## Olá! Me chamo Arthur Tosta 👋 
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Atualmente estudando React, TypeScript e NextJs
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur1050/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tostamatias@gmail.com)
+
 <div>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Arthur1050&hide=prs,issues,contribs&rank_icon=github&locale=pt-br&show_icons=true"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1050&locale=pt-br&layout=compact">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Arthur1050&hide=prs,issues,contribs&rank_icon=github&locale=pt-br&show_icons=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1050&locale=pt-br&layout=compact">
 </div>
 
 ### Atuais projetos nos quais estou trabalhando
